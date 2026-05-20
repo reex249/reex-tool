@@ -49,11 +49,13 @@ pip3 install pycryptodome libusb python-adb unisoc-unlock
 
  bash
 # إعطاء صلاحية التنفيذ للملف
+cd reex-tool
 chmod +x reex_tool.py
 
 # تشغيل الأداة
 python3 reex_tool.py
-
+             او 
+   ./reex_tool.py
 ---
 
 ## 👥 للتواصل والدعم الفني (Contact & Support)
