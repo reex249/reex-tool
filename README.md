@@ -58,9 +58,10 @@ cd reex-tool
 chmod +x reex_tool.py
 
 # تشغيل الأداة
-python3 reex_tool
-او
 ./reex_tool.py
+
+reex_tool.py
+
   
 ---
 
