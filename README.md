@@ -69,5 +69,5 @@ reex_tool.py
 
 إذا واجهتك أي مشكلة أو كان لديك استفسار، يمكنك التواصل مباشرة عبر حساب التليجرام:
 
-* 📢 **Telegram Account:** [@HC_XA]
+* 📢 **Telegram Account:**  @HC_XA
 
