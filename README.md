@@ -27,10 +27,14 @@
 ### 🔹 الخطوة 1: تحديث حزم النظام والبيئة
 bash
 # لمستخدمي تطبيق Termux:
+
 pkg update && pkg upgrade -y  
 
+
 # لمستخدمي توزيعات Linux (مثل Ubuntu / Kali):
+
 sudo apt update && sudo apt upgrade -y
+
 
 ### 🔹 الخطوة 2: تثبيت لغة Python وأدوات الأندرويد الأساسية
 
